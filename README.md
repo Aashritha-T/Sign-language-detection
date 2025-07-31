@@ -1,5 +1,5 @@
 # 🖐️ Sign Language Detection Using Machine Learning
-A machine learning project that identifies American Sign Language (ASL) alphabets (A–Z) from hand gesture images. Designed with the vision to bridge the communication gap between the speech/hearing impaired and the rest of the world through computer vision and AI.
+A machine learning project that identifies alphabets (A–Z) from hand gesture images. Designed with the vision to bridge the communication gap between the speech/hearing impaired and the rest of the world through computer vision and AI.
 
 ## 📌 Table of Contents
 
@@ -28,11 +28,6 @@ This project uses machine learning and image classification techniques to recogn
   - Grayscale conversion
   - Resizing (e.g., 64x64 or 128x128)
   - Normalization
----
-
-##  Sample Output
-
-Hand gesture - alphabet-accuracy
 
 ## 🛠️ Tech Stack
 
@@ -77,8 +72,6 @@ python predict.py --image path_to_image.jpg
 ```bash
 python realtime_detection.py
 ```
-
----
 
 ## 🧠 Future Scope
 
